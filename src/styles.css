@@ -111,7 +111,7 @@ body {
 .resume {
   background: #fff;
   width: min(900px, 100%);
-  padding: 40px 48px;
+  padding: 28px 40px;
   border-radius: 16px;
   box-shadow: 0 18px 40px rgba(15, 23, 42, 0.12);
 }
@@ -134,7 +134,7 @@ body {
 
 .contact-line {
   text-align: center;
-  margin: 8px 0 24px;
+  margin: 6px 0 16px;
   font-size: 14px;
 }
 
@@ -142,7 +142,7 @@ body {
   display: flex;
   align-items: center;
   gap: 12px;
-  margin-top: 20px;
+  margin-top: 12px;
 }
 
 .section-header h2 {
@@ -159,14 +159,14 @@ body {
 }
 
 .summary {
-  margin: 8px 0 0;
-  line-height: 1.5;
+  margin: 4px 0 0;
+  line-height: 1.45;
 }
 
 .skills-grid {
-  margin-top: 10px;
+  margin-top: 6px;
   display: grid;
-  gap: 8px;
+  gap: 4px;
 }
 
 .skill-row {
@@ -184,7 +184,7 @@ body {
 }
 
 .experience-block {
-  margin-top: 16px;
+  margin-top: 8px;
 }
 
 .experience-top,
@@ -224,19 +224,19 @@ body {
 
 .experience-block ul,
 .experience-additional ul {
-  margin: 8px 0 0 18px;
+  margin: 4px 0 0 16px;
   padding: 0;
-  line-height: 1.5;
+  line-height: 1.4;
 }
 
 .education-grid {
-  margin-top: 16px;
+  margin-top: 10px;
   display: grid;
-  gap: 16px;
+  gap: 8px;
 }
 
 .gpa {
-  margin: 4px 0 0;
+  margin: 2px 0 0;
 }
 
 @media print {
